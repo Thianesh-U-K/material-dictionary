@@ -1,0 +1,1 @@
+materialname  yeild strength  thermalexpansion  modules of elasticity cost of the material
